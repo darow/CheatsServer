@@ -1,1 +1,1 @@
-web: bin/cheats-server
+web: bin/go-getting-started
