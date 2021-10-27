@@ -1,1 +1,1 @@
-web: bin/cheats-server
+web: bin\cheats-server.exe
